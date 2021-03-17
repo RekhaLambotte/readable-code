@@ -13,14 +13,15 @@ PHP
 Projet solo
 
 ## Instructions:
-Débugger un code fourni.
+Réécrire le code donné pour que celui-ci soit plus lisible et claire
 
-Délai: 2 jours
+Délai: 1 jours
 
 ## Statut:
-En cours
+Terminé en 3h. 
 
 ## Projet déployé: 
-Lien Github : https://github.com/RekhaLambotte/php-debugging.git
+Lien Github : https://github.com/RekhaLambotte/readable-code.git
 
-Lien Web :  https://rekhalambotte.github.io/php-debugging/
+Lien Web :  https://rekhalambotte.github.io/readable-code/
+
